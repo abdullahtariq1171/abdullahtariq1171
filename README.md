@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-Senior FullStack Engineer in JavaScript ecosystem with 5+ years of experience working with remote teams. ReactJS/NextJS and GraphQL specialist.  
+Senior FullStack Engineer in JavaScript ecosystem with 7+ years of experience working with remote teams. ReactJS/NextJS and GraphQL specialist.  
 Positive and team-oriented attitude. Open Source enthusiastic.
+
+TECHNICAL SKILLS
+• Front-End: JavaScript, React, NextJS, GraphQL, TypeScript, ApolloClient, React Query, CSS, SCSS, TailwindCSS, emotion, HTML5, Unit Testing
+• Back-End: NodeJS/ExpressJS, Ruby on Rails, Serverless Functions
+• Databases: PostgresSQL, GraphQL (Hasura and Prisma), SQLite
+• DevOps: AWS, Vercel, Netlify, Docker, Heroku, Github Actions
+• Others: Git, GitHub, Heroku, AWS
 
 ---
 
