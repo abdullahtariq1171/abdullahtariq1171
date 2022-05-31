@@ -27,7 +27,7 @@ An instantly ready, full-featured online IDE for web development on any device w
 ---
 
 
-- 📫 How to reach me: abdullahtariq52@gmial.com
+- 📫 How to reach me: abdullahtariq52@gmail.com
 - 😄 Pronouns: he/his/him
 - Portfolio: https://abdullahcodes.me/
 
