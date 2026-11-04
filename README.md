@@ -1,3 +1,5 @@
+# Abdullah
+
 AI engineer with 8+ years building web software in TypeScript. These days I work on
 agentic systems — agents that verify their own work instead of just generating.
 
@@ -16,6 +18,6 @@ next, so context survives the handoff. Local SQLite, 13 tests, CI.
 
 Agentic systems · MCP · evaluation · guardrails · TypeScript
 
-## Elsewhere
+---
 
 [LinkedIn](https://www.linkedin.com/in/m-abdullah/)
